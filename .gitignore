@@ -5,3 +5,4 @@ dataset
 cache.txt
 *.sh
 config
+/.history
